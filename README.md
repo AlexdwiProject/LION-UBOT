@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/_dwialex?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
@@ -12,10 +12,10 @@
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/GirlHD"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak** 🦔
+* **LION** 🦁
 [<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
 
   
@@ -27,15 +27,15 @@
 
 ### JOIN DULU TOT!!:
 
-<a href="https://t.me/ramubotinfo"><img src="https://img.shields.io/badge/Channel%20RAM%20UBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/teman_random"><img src="https://img.shields.io/badge/Join-TEMAN%20RANDOM-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GirlHD"><img src="https://img.shields.io/badge/Channel%20LION%20UBOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Astakulo"><img src="https://img.shields.io/badge/Join-ASTA%20KULO-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
 [<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO LION UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
 <p align="center">&nbsp;</p>
 
 ### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
@@ -52,7 +52,7 @@
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/AlexdwiProject/LION-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20LION%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
