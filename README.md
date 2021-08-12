@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **LION** 🦁
-[<img src="https://telegra.ph/file/5cfe97532800fa80c460a.jpg">](https://t.me/maafgausahsokap)
+[<img src="https://cooltext.com/images/ct_pixel.gif">](https://t.me/maafgausahsokap)
 
   
   
@@ -32,7 +32,7 @@
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+[<img src="https://images.cooltext.com/5546023.gif">](https://t.me/ootspambott)
 
 
 <h3 align="center">REPO LION UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
@@ -52,7 +52,7 @@
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/AlexdwiProject/LION-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20LION%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/AlexdwiProject/LION-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20LION%20UBOT%20DI%20HEROKU-greend?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
