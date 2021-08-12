@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **LION** 🦁
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+[<img src="https://telegra.ph/file/5cfe97532800fa80c460a.jpg">](https://t.me/maafgausahsokap)
 
   
   
