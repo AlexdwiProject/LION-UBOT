@@ -25,7 +25,7 @@ async def var(m):
 
 
 CMD_HELP.update({
-    "ramhelper":
+    "helper":
     "`.helpmy`\
 \nPenjelasan: Bantuan Untuk LION-UBOT.\
 \n`.rvars`\
