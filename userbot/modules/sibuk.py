@@ -63,7 +63,7 @@ async def set_afk(afk_e):
     afk_start = start_1.replace(microsecond=0)
     if string:
         AFKREASON = string
-        await afk_e.edit(f"{REPO_NAME}\n╭✠╼━━━━━━❖━━━━━━━✠╮\n┣ {ALIVE_NAME} __ʟᴀɢɪ ᴀꜰᴋ__\n┣ ᴀʟᴀꜱᴀɴ : {AFKREASON}\n╰✠╼━━━━━━❖━━━━━━━✠╯")
+        await afk_e.edit(f"✠╼━━━━━━❖━━━━━━━✠╮\n┣ {ALIVE_NAME} __ʟᴀɢɪ ᴀꜰᴋ__\n┣ ᴀʟᴀꜱᴀɴ : {AFKREASON}\n╰✠╼━━━━━━❖━━━━━━━✠╯")
     else:
         await afk_e.edit("♪ᴀꜰᴋ♪\n╭✠╼━━━━━━❖━━━━━━━✠╮ \n┣ __ʟᴀɢɪ ᴀꜰᴋ__ \n╰✠╼━━━━━━❖━━━━━━━✠╯")
     if user.last_name:
