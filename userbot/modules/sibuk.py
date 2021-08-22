@@ -67,9 +67,9 @@ async def set_afk(afk_e):
     else:
         await afk_e.edit("♪ᴀꜰᴋ♪\n╭✠╼━━━━━━❖━━━━━━━✠╮ \n┣ __ʟᴀɢɪ ᴀꜰᴋ__ \n╰✠╼━━━━━━❖━━━━━━━✠╯")
     if user.last_name:
-        await afk_e.client(UpdateProfileRequest(first_name=user.first_name, last_name=user.last_name + " ★ᴀꜰᴋ★ "))
+        await afk_e.client(UpdateProfileRequest(first_name=user.first_name, last_name=user.last_name + " ★ "))
     else:
-        await afk_e.client(UpdateProfileRequest(first_name=user.first_name, last_name=" ★ᴀꜰᴋ★ "))
+        await afk_e.client(UpdateProfileRequest(first_name=user.first_name, last_name=" ★ "))
     if BOTLOG:
         await afk_e.client.send_message(BOTLOG_CHATID, "#AFK\n__ʟᴀɢɪ ᴀꜰᴋ__")
     ISAFK = True
