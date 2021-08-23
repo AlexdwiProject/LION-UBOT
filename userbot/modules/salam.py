@@ -105,7 +105,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^H(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`HAHAHAHAHA, UDAH JELEK, LAWAK MULU, PANTES JADI BADUT PEREMPATAN JALAN..`")
+    await typew.edit("***HAHAHAHAHA, UDAH JELEK, LAWAK MULU, PANTES JADI BADUT PEREMPATAN JALAN..***")
 
 
 @register(outgoing=True, pattern='^O(?: |$)(.*)')
