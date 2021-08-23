@@ -108,10 +108,10 @@ async def on_afk(event):
         msg = None
         if reason:
             message_to_reply = (
-                f" ╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} LAGI OFF**\n"
+                f" ✯ᴏꜰꜰʟɪɴᴇ✯\n ╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} LAGI OFF**\n"
                 f"**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━")
         else:
-            message_to_reply = f" ╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} LAGI OFF**\n╰✠╼━━━━━━━━━"
+            message_to_reply = f" ✯ᴏꜰꜰʟɪɴᴇ✯\n ╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} LAGI OFF**\n╰✠╼━━━━━━━━━"
         try:
             if pic.endswith((".tgs", ".webp")):
                 msg = await event.reply(file=pic)
