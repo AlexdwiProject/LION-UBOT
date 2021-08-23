@@ -189,38 +189,38 @@ async def _(event):
                 if pic.endswith((".tgs", ".webp")):
                     await bot.send_message(event.chat_id, file=pic)
                     await bot.send_message(
-                        event.chat_id, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 ᴏꜰꜰ\n╰✠╼━━━━━━━━━**"
+                        event.chat_id, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n╰✠╼━━━━━━━━━**"
                     )
                 else:
                     await bot.send_message(
-                        event.chat_id, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 ᴏꜰꜰ**\n╰✠╼━━━━━━━━━", file=pic
+                        event.chat_id, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n╰✠╼━━━━━━━━━", file=pic
                     )
             except BaseException:
-                await bot.send_message(event.chat_id, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 ᴏꜰꜰ**\n╰✠╼━━━━━━━━━")
+                await bot.send_message(event.chat_id, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n╰✠╼━━━━━━━━━")
         await event.delete()
         try:
             if reason and pic:
                 if pic.endswith((".tgs", ".webp")):
                     await bot.send_message(BOTLOG_CHATID, file=pic)
                     await bot.send_message(
-                        BOTLOG_CHATID, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 ᴏꜰꜰ**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━"
+                        BOTLOG_CHATID, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━"
                     )
                 else:
                     await bot.send_message(
-                        BOTLOG_CHATID, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 ᴏꜰꜰ**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━", file=pic
+                        BOTLOG_CHATID, f" ✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━", file=pic
                     )
             elif reason:
                 await bot.send_message(
-                    BOTLOG_CHATID, f"\n✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 ᴏꜰꜰ**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━"
+                    BOTLOG_CHATID, f"\n✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n**▸ ᴋᴀʀᴇɴᴀ :** `{reason}`\n╰✠╼━━━━━━━━━"
                 )
             elif pic:
                 if pic.endswith((".tgs", ".webp")):
                     await bot.send_message(BOTLOG_CHATID, file=pic)
-                    await bot.send_message(BOTLOG_CHATID, f"✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n╰✠╼━━━━━━━━━")
+                    await bot.send_message(BOTLOG_CHATID, f"✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n╰✠╼━━━━━━━━━")
                 else:
-                    await bot.send_message(BOTLOG_CHATID, f"✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n╰✠╼━━━━━━━━━", file=pic)
+                    await bot.send_message(BOTLOG_CHATID, f"✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n╰✠╼━━━━━━━━━", file=pic)
             else:
-                await bot.send_message(BOTLOG_CHATID, f"✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} 𝐋𝐚𝐠𝐢 𝐎𝐟𝐟𝐥𝐢𝐧𝐞**\n╰✠╼━━━━━━━━━")
+                await bot.send_message(BOTLOG_CHATID, f"✯ᴏꜰꜰʟɪɴᴇ✯\n╭✠╼━━━━━━━━━━━━\n**▸ {ALIVE_NAME} ʟᴀɢɪ ᴏꜰꜰ**\n╰✠╼━━━━━━━━━")
         except Exception as e:
             BOTLOG_CHATIDger.warn(str(e))
 
