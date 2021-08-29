@@ -432,7 +432,7 @@ def paginate_help(page_number, loaded_modules, prefix):
                     "⌫️", data="{}_prev({})".format(prefix, modulo_page)
                 ),
                 custom.Button.inline(
-                    f"{EMOJI_HELP} ✰ᴄʟᴏꜱᴇ✰ {EMOJI_HELP}", data="{}_close({})".format(prefix, modulo_page)
+                    f"{EMOJI_HELP} ᴄʟᴏꜱᴇ {EMOJI_HELP}", data="{}_close({})".format(prefix, modulo_page)
                 ),
                 custom.Button.inline(
                     "⌦️", data="{}_next({})".format(prefix, modulo_page)
