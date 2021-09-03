@@ -11,7 +11,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 @register(outgoing=True, pattern="^.helpmy$")
 async def usit(e):
     await e.edit(
-        f"**Hai {DEFAULTUSER} Kalau Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.rhelp` Atau Bisa `.help` atau Minta Bantuan Ke:\n"
+        f"**Hai {DEFAULTUSER} Kalau Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.helpme` Atau Bisa `.help` atau Minta Bantuan Ke:\n"
         "\n[LION🦁](t.me/immeong)"
         "\n\n[SUPPORT](https://t.me/GirlHD)"
         "\n\n[CHANNEL](https://t.me/Astakulo)")
