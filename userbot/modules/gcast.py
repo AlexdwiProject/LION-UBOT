@@ -9,7 +9,7 @@ async def gcast(event):
         return await event.edit("`Pesannya Mana ngentot?`")
     tt = event.text
     msg = tt[6:]
-    kk = await event.edit("`Sabar Lg gua kirim tot, Limit jangan salain gua...`")
+    kk = await event.edit("`Tunggu Lagi Proses Kirim Ngentod, Limit Mampus Lu...`")
     er = 0
     done = 0
     async for x in bot.iter_dialogs():
