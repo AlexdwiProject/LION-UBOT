@@ -28,7 +28,7 @@ async def typewriter(typew):
                      "\n**Permisi Aku mau nimbrung Kk..**")
 
 
-@register(outgoing=True, pattern='^.kau(?: |$)(.*)')
+@register(outgoing=True, pattern='^.kamuu(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("**Hai Apa Kabar?**")
